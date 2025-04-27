@@ -1,18 +1,25 @@
-Inside the dataset folder, you will find movie details that can be added to your database.
-This data will be used to perform semantic search on the movies.
+# Movie Database Project Setup Instructions
 
-Clone the repository to your local machine.
+## Overview
+Inside the dataset folder, you will find movie details that can be added to your database. This data will be used to perform semantic search on the movies.
 
-Create an .env or .env.local file in the root directory of the project.
+## Setup Steps
 
-Inside the .env file, define the following environment variables:
+1. *Clone the repository* to your local machine.
 
-API_TOKEN=<your_together_ai_token>
-MONGODB_URI=<your_mongodb_connection_url>
+2. *Create environment file*
+   - Create an .env or .env.local file in the root directory of the project.
+   - Inside the .env file, define the following environment variables:
+     
+     API_TOKEN=<your_together_ai_token>
+     MONGODB_URI=<your_mongodb_connection_url>
+     
 
-Install project dependencies:
-npm install
+3. *Install dependencies*
+   bash
+   npm install
+   
 
-
-Start the development server:
-npm run dev
+4. *Start the development server*
+   bash
+   npm run dev
