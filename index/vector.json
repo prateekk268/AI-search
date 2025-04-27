@@ -1,0 +1,63 @@
+[
+  {
+    "name": "movie-search",
+    "type": "vectorSearch",
+    "definition": {
+      "fields": [
+        {
+          "type": "vector",
+          "numDimensions": 384,
+          "path": "embedding",
+          "similarity": "cosine"
+        }
+      ]
+    }
+  },
+
+  {
+    "$vectorSearch": {
+      "filter": {},
+      "index": "ai_index",
+      "limit": 4,
+      "numCandidates": 384,
+      "path": "embedding",
+      "queryVector": []
+    }
+  },
+
+  {
+    "fields": [
+      {
+        "numDimensions": 384,
+        "path": "embedding",
+        "similarity": "cosine",
+        "type": "vector"
+      }
+    ]
+  },
+
+  {
+    "mappings": {
+      "dynamic": true,
+      "fields": {
+        "embedding": [
+          {
+            "type": "knnVector",
+            "dimensions": 384,
+            "similarity": "cosine",
+            "path": "embedding"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "$search": {
+      "knnBeta": {
+        "vector": "yourVector",
+        "path": "embedding",
+        "k": 10
+      }
+    }
+  }
+]

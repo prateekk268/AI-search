@@ -1,0 +1,122 @@
+[
+  {
+    "movieName": "The Shawshank Redemption",
+    "rating": 9.3,
+    "audienceRating": "R",
+    "description": "An inspiring story of hope and friendship set against the harsh reality of prison life, where two men form a bond that transcends their confinement and gives them a second chance at freedom."
+  },
+  {
+    "movieName": "The Godfather",
+    "rating": 9.2,
+    "audienceRating": "R",
+    "description": "An epic portrayal of a mafia family\u2019s rise to power, capturing the complex relationships, betrayal, and loyalty that define the underworld empire built by Don Corleone and his successors."
+  },
+  {
+    "movieName": "The Dark Knight",
+    "rating": 9.0,
+    "audienceRating": "PG-13",
+    "description": "A gripping crime saga that delves into the chaos unleashed by the Joker in Gotham City, testing Batman\u2019s strength, moral code, and the very soul of a city on the edge of collapse."
+  },
+  {
+    "movieName": "Pulp Fiction",
+    "rating": 8.9,
+    "audienceRating": "R",
+    "description": "A stylish and unconventional narrative that intertwines multiple stories of crime, redemption, and absurdity, featuring iconic performances and razor-sharp dialogue that changed cinema forever."
+  },
+  {
+    "movieName": "Fight Club",
+    "rating": 8.8,
+    "audienceRating": "R",
+    "description": "A raw exploration of identity, consumerism, and the primal urge for self-destruction, following an insomniac office worker and a charismatic soap salesman who create an underground fight club."
+  },
+  {
+    "movieName": "Forrest Gump",
+    "rating": 8.8,
+    "audienceRating": "PG-13",
+    "description": "A heartwarming tale chronicling the extraordinary life of Forrest Gump, whose childlike optimism and pure heart take him through pivotal historical moments with touching simplicity and humor."
+  },
+  {
+    "movieName": "Inglourious Basterds",
+    "rating": 8.3,
+    "audienceRating": "R",
+    "description": "A bold and brutal reimagining of World War II, where a group of Jewish-American soldiers set out to bring fear to the Nazis, leading to a thrilling, violent, and cathartic revenge fantasy."
+  },
+  {
+    "movieName": "Gladiator",
+    "rating": 8.5,
+    "audienceRating": "R",
+    "description": "A sweeping historical epic about a Roman general who seeks revenge after being betrayed and reduced to slavery, rising as a gladiator who defies an empire and wins back his honor."
+  },
+  {
+    "movieName": "Interstellar",
+    "rating": 8.6,
+    "audienceRating": "PG-13",
+    "description": "An emotional and visually stunning journey through space and time, where a team of astronauts ventures beyond our galaxy to find a new home for humanity as Earth faces extinction."
+  },
+  {
+    "movieName": "The Matrix",
+    "rating": 8.7,
+    "audienceRating": "R",
+    "description": "A groundbreaking sci-fi thriller that questions reality itself, as a computer hacker discovers the world he knows is a simulated illusion and joins a rebellion against the machines controlling humanity."
+  },
+  {
+    "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.8,
+    "audienceRating": "PG-13",
+    "description": "A breathtaking fantasy adventure where a humble hobbit must embark on a perilous quest to destroy an ancient evil ring, aided by a fellowship of diverse allies against insurmountable odds."
+  },
+  {
+    "movieName": "The Silence of the Lambs",
+    "rating": 8.6,
+    "audienceRating": "R",
+    "description": "A chilling psychological thriller where a young FBI cadet seeks the aid of an imprisoned cannibalistic killer to catch another murderer, leading to a tense battle of wits and manipulation."
+  },
+  {
+    "movieName": "Saving Private Ryan",
+    "rating": 8.6,
+    "audienceRating": "R",
+    "description": "A harrowing and realistic portrayal of World War II, following a squad\u2019s dangerous mission behind enemy lines to find and bring home a paratrooper after the D-Day landings."
+  },
+  {
+    "movieName": "Se7en",
+    "rating": 8.6,
+    "audienceRating": "R",
+    "description": "A dark and gripping detective story where two cops pursue a serial killer who meticulously crafts his murders around the seven deadly sins, leading to a chilling and unforgettable finale."
+  },
+  {
+    "movieName": "The Green Mile",
+    "rating": 8.6,
+    "audienceRating": "R",
+    "description": "A deeply moving story set in a death row prison block, where supernatural events unfold around a gentle giant of a man, challenging the beliefs and humanity of the guards around him."
+  },
+  {
+    "movieName": "Parasite",
+    "rating": 8.5,
+    "audienceRating": "R",
+    "description": "A masterful social satire where a poor family cunningly infiltrates a wealthy household, leading to unexpected consequences and a shocking portrayal of class division and human desperation."
+  },
+  {
+    "movieName": "Whiplash",
+    "rating": 8.5,
+    "audienceRating": "R",
+    "description": "An intense exploration of ambition and obsession in the world of competitive jazz, where a young drummer faces relentless psychological warfare from a ruthless instructor in pursuit of greatness."
+  },
+  {
+    "movieName": "Joker",
+    "rating": 8.4,
+    "audienceRating": "R",
+    "description": "A haunting character study of a man discarded by society, whose slow descent into madness and violence transforms him into the infamous Joker, revealing the thin line between tragedy and villainy."
+  },
+  {
+    "movieName": "The Prestige",
+    "rating": 8.5,
+    "audienceRating": "PG-13",
+    "description": "A riveting tale of obsession and rivalry between two magicians, whose competition to create the ultimate illusion leads them down a dark and tragic path of sacrifice, betrayal, and deception."
+  },
+  {
+    "movieName": "Django Unchained",
+    "rating": 8.4,
+    "audienceRating": "R",
+    "description": "A stylish and violent Western where a freed slave teams up with a bounty hunter to rescue his wife from a brutal plantation owner, blending action, drama, and dark humor masterfully."
+  }
+]
